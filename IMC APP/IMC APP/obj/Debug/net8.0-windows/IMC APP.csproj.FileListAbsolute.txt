@@ -1,0 +1,16 @@
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\bin\Debug\net8.0-windows\IMC APP.exe
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\bin\Debug\net8.0-windows\IMC APP.deps.json
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\bin\Debug\net8.0-windows\IMC APP.runtimeconfig.json
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\bin\Debug\net8.0-windows\IMC APP.dll
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\bin\Debug\net8.0-windows\IMC APP.pdb
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC_APP.Form1.resources
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.csproj.GenerateResource.cache
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.AssemblyInfoInputs.cache
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.AssemblyInfo.cs
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.csproj.CoreCompileInputs.cache
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.dll
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\refint\IMC APP.dll
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.pdb
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\IMC APP.genruntimeconfig.cache
+C:\Users\jtorr\OneDrive\Desktop\Visual, trabajos\IMC APP\IMC APP\obj\Debug\net8.0-windows\ref\IMC APP.dll
